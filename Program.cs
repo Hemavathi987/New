@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Enter value");
             int num = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("output will sdfghj");
+            Console.WriteLine("output will sdfghj654323456");
             for (int i = 1; i < num; i++)
             {
                 if (i == 3 || i==6)
